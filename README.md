@@ -1,1 +1,1 @@
-# Share-price-estimation-of-GPU-Companies
+# Share price estimation of GPU Companies
